@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    build: .
+    image: docker-nodejs
+    volumes:
+      - ./app:/app
+    ports:
+      # - "8100:8100"
+    - "8100:3000"
+    tty: true
