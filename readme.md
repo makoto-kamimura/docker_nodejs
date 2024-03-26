@@ -31,3 +31,13 @@ http://localhost:3000/
 yarn add react@18.2.0 react-dom@18.2.0
 // <React.StrictMode>
 yarn add --dev @babel/plugin-proposal-private-property-in-object
+yarn add uuid
+
+## image
+https://o-dan.net/ja/
+
+## font
+https://fontawesome.com/
+
+## uuid
+https://www.npmjs.com/package/uuid
